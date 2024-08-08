@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: azure;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: plum;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  color: plum;
+  margin-top: 20px;
+}
+
+p {
+  line-height: 1.6;
+}
+
+ul,
+ol {
+  margin: 20px 0;
+  padding: 0 20px;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
